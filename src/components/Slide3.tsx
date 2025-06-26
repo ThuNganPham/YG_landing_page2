@@ -66,7 +66,7 @@ const VideoBackgroundSection: React.FC = () => {
           >
             <Image
               ref={imageRef}
-              src="/media/banner-turning.jpg"
+              src="/media/banner-turning.webp"
               alt="Banner"
               className="absolute top-0 transform -translate-x-1/2 w-full h-full rounded-lg shadow-custom-orange transition-transform duration-200 ease-out"
               fill

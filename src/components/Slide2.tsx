@@ -5,10 +5,10 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 
 const backgroundImages = [
-  "/media/slide2.1.jpg",
-  "/media/slide2.2.jpg",
-  "/media/slide2.3.jpg",
-  "/media/slide2.4.jpg",
+  "/media/slide2.1.webp",
+  "/media/slide2.2.webp",
+  "/media/slide2.3.webp",
+  "/media/slide2.4.webp",
 ];
 
 export default function BackgroundSlider() {
@@ -117,7 +117,7 @@ export default function BackgroundSlider() {
 
           <div className="flex items-center gap-[10px]">
             <Image
-              src="/media/icon1.png"
+              src="/media/icon1.webp"
               alt="service icon"
               className="inline-block mr-2 max-w-full h-auto"
               width={35}
@@ -133,7 +133,7 @@ export default function BackgroundSlider() {
 
           <div className="flex items-center gap-[10px]">
             <Image
-              src="/media/icon2.png"
+              src="/media/icon2.webp"
               alt="projects icon"
               className="inline-block mr-2 max-w-full h-auto"
               width={35}
@@ -149,7 +149,7 @@ export default function BackgroundSlider() {
 
           <div className="flex items-center gap-[13px]">
             <Image
-              src="/media/icon3.png"
+              src="/media/icon3.webp"
               alt="clients icon"
               className="inline-block mr-2 max-w-full h-auto"
               width={33}
@@ -165,7 +165,7 @@ export default function BackgroundSlider() {
 
           <div className="flex items-center gap-[16px]">
             <Image
-              src="/media/icon4.png"
+              src="/media/icon4.webp"
               alt="contact icon"
               className="inline-block mr-2 max-w-full h-auto"
               width={30}

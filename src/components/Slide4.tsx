@@ -5,11 +5,11 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 
 const backgroundImages = [
-  "/media/slide4.1.jpg",
-  "/media/slide4.2.jpg",
-  "/media/slide4.3.jpg",
-  "/media/slide4.4.jpg",
-  "/media/slide4.5.jpg",
+  "/media/slide4.1.webp",
+  "/media/slide4.2.webp",
+  "/media/slide4.3.webp",
+  "/media/slide4.4.webp",
+  "/media/slide4.5.webp",
   "/media/slide4.6.jpeg",
   "/media/slide4.7.jpg",
   "/media/slide4.8.jpg",
